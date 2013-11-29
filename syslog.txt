@@ -1,0 +1,6 @@
+[04-Apr-2007 22:32:43] PHP Warning:  session_start(): open(/tmp\sess_1ab6345d2e70eb75e76a761d22689b6b, O_RDWR) failed: No such file or directory (2) in E:\Documents and Settings\NuR\Рабочий стол\sec\phpdesigner_output_tmp.php on line 16
+[04-Apr-2007 22:32:43] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at E:\Documents and Settings\NuR\Рабочий стол\sec\phpdesigner_output_tmp.php:16) in E:\Documents and Settings\NuR\Рабочий стол\sec\phpdesigner_output_tmp.php on line 16
+[04-Apr-2007 22:32:43] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at E:\Documents and Settings\NuR\Рабочий стол\sec\phpdesigner_output_tmp.php:16) in E:\Documents and Settings\NuR\Рабочий стол\sec\phpdesigner_output_tmp.php on line 16
+[04-Apr-2007 22:32:43] PHP Notice:  Undefined variable:  logged_user in E:\Documents and Settings\NuR\Рабочий стол\sec\phpdesigner_output_tmp.php on line 17
+[04-Apr-2007 22:32:43] PHP Warning:  Unknown(): open(/tmp\sess_1ab6345d2e70eb75e76a761d22689b6b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+[04-Apr-2007 22:32:43] PHP Warning:  Unknown(): Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
